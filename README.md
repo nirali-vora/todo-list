@@ -12,6 +12,3 @@ python main.py
 - Delete existing tasks
 - View all tasks
 - Data saved in `tasks.txt`
-
----
-Made for practice and GitHub portfolio 💻
