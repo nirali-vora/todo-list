@@ -1,4 +1,4 @@
-📝 To-Do List (CLI Version)
+📝 To-Do List (CLI Version) :
 A simple and user-friendly command-line To-Do list manager built with Python. This tool helps you stay organized by letting you add, view, and delete tasks, all saved persistently in a text file.
 
 🚀 How to Run
